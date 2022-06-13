@@ -30,3 +30,9 @@ snap install code --classic
 ```
 sudo apt install make
 ```
+## Setup Video:
+
+https://user-images.githubusercontent.com/75990547/173345477-834602c1-8b80-4442-82a5-8643935a6378.mp4
+
+
+
