@@ -1,5 +1,6 @@
 # ImGUI-Linux-Setup
 A small demo of setting up ImGUI on Linux using the existing CMake file.
+  - Check for the prerequisites before setting up the project from the Video Below.
 
 ## Prerequisites:
 
